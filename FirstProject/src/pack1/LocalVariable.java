@@ -12,7 +12,7 @@ public class LocalVariable {
 	   
 		int a =500; // local variable
 	    System.out.println(a);
-	    System.out.println(this.a);
+	    System.out.println(this.a); // this keyword - nonstatic variable of this class
 	    
 		System.out.println(b);
 	}
