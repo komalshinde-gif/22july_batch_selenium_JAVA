@@ -1,5 +1,7 @@
 package pack1;
 
+import access_modifier.ClassA2;
+
 public class ArrayDiscussion 
 {
  
@@ -50,7 +52,10 @@ public class ArrayDiscussion
 		
 		
 	    
+	//   ClassA2 aa= new ClassA2();
 	    
+	    ClassA.m1;
+		
 	    
 	    
 	

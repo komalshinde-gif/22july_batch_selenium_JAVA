@@ -10,7 +10,7 @@ public class VariableDiscussion {
 	
 
 	
-	public static void m1() { // static method
+	 public static void m1() { // static method
 		
 		System.out.println(a);  // static variable-by 
 	    

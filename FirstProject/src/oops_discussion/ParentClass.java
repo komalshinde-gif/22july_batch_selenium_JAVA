@@ -1,7 +1,8 @@
 package oops_discussion;
 
 public class ParentClass {
-
+     int num1=100;
+     static int num2=200;
 	
 	public static void m1()
 	{
